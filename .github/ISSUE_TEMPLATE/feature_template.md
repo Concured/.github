@@ -7,6 +7,7 @@ about: Use this to ask for a feature
 # User Story / Motivation
 
 # Requirements
+<!-- List all tasks that need to be completed to consider this feature ready -->
 
 # Definition Of Done
 
