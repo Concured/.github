@@ -1,21 +1,19 @@
 ---
 name: Bug Report
 about: Report a bug
-assignees: CGagnier
+assignees: JohannesStef
 ---
 
 <!--- 
-	Name format for FE: Page - Description
-	Name format for BE: Process - Description
+Name format for FE: Page - Description
+Name format for BE: Process - Description
  -->
- 
- **Who's accountable:** 
+
 ## Observed behaviour
 
 ## Description :
 
 ## Screen shots OR Logs :
-
 
 ## Expected behaviour
 

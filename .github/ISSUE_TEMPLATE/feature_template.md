@@ -2,16 +2,16 @@
 name: Feature Request
 about: Use this to ask for a feature
 ---
-**Business owner:**
+**Business owner :** <!-- (who requested the changes)-->
 
-**Deadline:**
-# User story
+# User Story / Motivation
 
 # Requirements
-_Screenshots, Design, tasks ..._
+<!-- List all tasks that need to be completed to consider this feature ready -->
+
 # Definition Of Done
 
 # QA/Testing assumptions 
-
+**Testing will be done by:**
 
 
