@@ -34,6 +34,7 @@
 #### Required
 - [ ] My code follows the [code style of this project](https://www.python.org/dev/peps/pep-0008) (`black` has been run on python files).
 - [ ] The filenames of my code follow the [PEP-8 standard](https://www.python.org/dev/peps/pep-0008/#package-and-module-names)
+- [ ] Any password/secret keys are stored in the Secret Manager, for configuration file, these can still be in secrets/env
 - [ ] Any and all connections to DB use SSL encryption
 - [ ] My code doesn't contain one-letter variables
 - [ ] My code doesn't contain any broad exception (`except Exception` or `except` by itself, or gigantic `try/except` blocs)
