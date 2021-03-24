@@ -30,7 +30,7 @@ about: Javascript PR template
 
 #### Required
 
-- [ ] Make sure not to push any secret or password to the code.
+- [ ] I've made sure not to push any secret or password to the code.
 - [ ] `prettier` has been run on the files
 - [ ] My code doesn't contain any unnecessary comments
 - [ ] I'm handling errors properly, no broad exceptions
