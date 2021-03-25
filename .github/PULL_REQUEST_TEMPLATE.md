@@ -1,8 +1,3 @@
----
-name: Python
-about: Python PR template
----
-
 <!--- Provide the id(s) of the related issue(s) and a general summary of your changes in the Title above -->
 
 ## Description
