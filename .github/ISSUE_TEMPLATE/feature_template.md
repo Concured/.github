@@ -7,8 +7,7 @@ about: Use this to ask for a feature
 # Requirements
 
 # Definition Of Done
-
+- [ ] Documentation has been updated
+- [ ] Monitoring has been configured
 # QA/Testing assumptions 
-**Testing will be done by:**
-
-
+**Testing will be done by** 
