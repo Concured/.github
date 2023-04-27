@@ -7,7 +7,7 @@ about: Use this to ask for a feature
 # Requirements
 
 # Definition Of Done
-(please check each box when complete)
+(check each box when complete)
 - [ ] Documentation has been updated
 - [ ] Monitoring has been configured
 # QA/Testing assumptions 
